@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 1
+  cascade: MyString
+  status: MyString
+  matches_design: MyString
+
+two:
+  id: 1
+  cascade: MyString
+  status: MyString
+  matches_design: MyString
